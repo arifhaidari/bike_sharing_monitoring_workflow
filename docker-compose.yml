@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  bike-sharing-monitoring:
+    build: .
+    volumes:
+      - .:/app  # Mount the current directory to /app in the container
+    environment:
+      - PYTHONUNBUFFERED=1  # Ensure logs are printed in real-time

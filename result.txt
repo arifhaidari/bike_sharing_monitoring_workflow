@@ -1,0 +1,11 @@
+Terminal output (running docker-compose):
+Recreating bike_sharing_monitoring_workflow_bike-sharing-monitoring_1 ... done
+Attaching to bike_sharing_monitoring_workflow_bike-sharing-monitoring_1
+bike-sharing-monitoring_1  | Model trained and saved as 'models/random_forest_model.pkl'.
+bike-sharing-monitoring_1  | Model validation report saved as 'model_validation_report.html'.
+bike-sharing-monitoring_1  | Production model drift report saved as 'production_model_drift_report.html'.
+bike-sharing-monitoring_1  | Week 1 drift report saved as 'week_1_drift_report.html'.
+bike-sharing-monitoring_1  | Week 2 drift report saved as 'week_2_drift_report.html'.
+bike-sharing-monitoring_1  | Week 3 drift report saved as 'week_3_drift_report.html'.
+bike-sharing-monitoring_1  | Data drift report saved as 'data_drift_report_last_week.html'.
+bike_sharing_monitoring_workflow_bike-sharing-monitoring_1 exited with code 0
