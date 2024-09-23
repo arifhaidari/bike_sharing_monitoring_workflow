@@ -1,0 +1,1 @@
+The purpose of this exam is to use evidently to monitor the drift in bike sharing data. The dataset covers 2 complete years (from Jan 2011 and Dec 2012) and we will only work on January and February months.
