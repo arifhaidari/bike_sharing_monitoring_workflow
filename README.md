@@ -10,6 +10,8 @@ The purpose of this project is to use evidently to monitor the drift in bike sha
 
 ---
 
+## Project Structure
+
 ├── src
 │ ├── data_drift_analysis.py
 │ ├── data_ingestion.py
