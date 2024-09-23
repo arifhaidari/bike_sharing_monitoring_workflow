@@ -12,6 +12,8 @@ The purpose of this project is to use evidently to monitor the drift in bike sha
 
 ## Project Structure
 
+```
+
 ├── src
 │ ├── data_drift_analysis.py
 │ ├── data_ingestion.py
@@ -37,6 +39,8 @@ The purpose of this project is to use evidently to monitor the drift in bike sha
 ├── requirements.txt # Python package dependencies
 ├── README.md # Project documentation (this file)
 └── .gitignore # Files to be ignored by Git
+
+```
 
 ---
 
